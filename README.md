@@ -1,4 +1,4 @@
-# [:] Example Kotlin Maven Project
+# [:] Example Kotlin Maven Project - scan 1
 
 An example maven project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
